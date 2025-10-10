@@ -1,18 +1,62 @@
-TikTok Weekly Performance - Week 20
+Hi Milad, Kristin and Aoife,
 
-Summary ROAS: 4.2x
+Please see below for Week 19 performance:
 
-Campaign Performance:
-- Lululemon_Prospecting_Interests_Lookalike: $2,847 spend, 4.1x ROAS
-- Lululemon_Prospecting_Interests_Broad: $1,923 spend, 3.8x ROAS  
-- Lululemon_Retargeting_Website_Visitors: $1,456 spend, 5.2x ROAS
+Summary:
 
-Total Budget: $6,226
-Total Revenue: $26,149
+Week 18 drove a 3.74x, ROAS, week prior drove 3.97x
+CNS Campaigns drove a 5.31x, the week prior was 5.34x
 
-Key Notes:
-- Retargeting campaigns performing above target
-- Prospecting showing consistent growth
-- Recommend increasing retargeting budget by 15%
+Campaign breakdown below:
+Campaign Name | Ad Group | Spend | GEDS Revenue | ROAS
+EVRGN_TOF_DM (US) | US_NAT_X_INT (TOF) | $73,353 | $222,913 | 3.04
+EVRGN_TOF_DM (US) | US_NAT_X_CC (TOF) | $31,621 | $107,555 | 3.40
+EVRGN_RTG_DM (US) | US_NAT_X_INT (RTG) | $8,894 | $44,305 | 4.98
+EVRGN_TOF_DM (CA) | CA_NAT_X_INT (TOF) | $19,273 | $60,852 | 3.16
+EVRGN_RTG_DM (CA) | CA_NAT_X_INT (RTG) | $2,506 | $4,421 | 0.14
+EVRGN_CNS_TOF_DM (US) | US_NAT_X_INT-Top-Rated | $3,637 | $18,440 | 6.33
+EVRGN_CNS_TOF_DM (US) | US_NAT_X_INT-Seasonal-Products | $3,282 | $23,030 | 5.37
+EVRGN_CNS_TOF_DM (US) | US_NAT_X_INT-Top-Colours | $3,638 | $17,612 | 4.84
+EVRGN_CNS_TOF_DM (US) | US_NAT_X_INT-Bestsellers | $5,824 | $26,993 | 4.63
+EVRGN_CNS_TOF_DM (US) | US_NAT_X_INT-New-Arrivals | $6,952 | $44,991 | 6.47
+EVRGN_CNS_TOF_DM (CA) | CA_NAT_X_INT-Seasonal-Products | $3,420 | $16,811 | 4.92
+EVRGN_CNS_TOF_DM (CA) | CA_NAT_X_INT-Top-Rated | $2,493 | $9,945 | 3.99
+EVRGN_CNS_TOF_DM (CA) | CA_NAT_X_INT-Top-Colours | $2,414 | $11,438 | 4.74
+EVRGN_CNS_TOF_DM (CA) | CA_NAT_X_INT-Bestsellers | $3,465 | $12,134 | 3.50
+EVRGN_CNS_TOF_DM (CA) | CA_NAT_X_INT-New-Arrivals | $5,044 | $30,479 | 6.04
+TOTAL | | $175,814 | $651,920 | 3.71
+Including paused ads revenue | | $175,814 | $657,806 | 3.74
 
-- THE SENDER IS SHAKTHI PANNEER 
+Weekly budget breakout below:
+TIK TOK | Daily Budget | Weekly Budget | Amount Remaining | New Daily Budget
+TOF_US | $12,282 | $85,971 | $85,971 | $12,282
+TOF_US - Cost Cap | $5,264 | $36,845 | $36,845 | $5,264
+RTG_US | $1,483 | $10,379 | $10,379 | $1,483
+TOTAL US | $19,028 | $133,194 | $133,194 | $19,028
+TOF_CA | $3,342 | $23,393 | $23,393 | $3,342
+RTG_CA | $282 | $1,977 | $1,977 | $282
+TOTAL CA | $3,624 | $25,370 | $25,370 | $3,624
+CNS Bestsellers_US | $981 | $6,868 | $6,868 | $981
+CNS New Arrivals_US | $1,177 | $8,241 | $8,241 | $1,177
+CNS Top Colours_US | $589 | $4,121 | $4,121 | $589
+CNS Seasonal [NEW] | $589 | $4,121 | $4,121 | $589
+CNS Top Rated [NEW] | $589 | $4,121 | $4,121 | $589
+TOTAL US | $3,924 | $27,471 | $27,471 | $3,924
+CNS Bestsellers_CA | $568 | $3,979 | $3,979 | $568
+CNS New Arrivals_CA | $853 | $5,968 | $5,968 | $853
+CNS Top Colours_CA | $426 | $2,984 | $2,984 | $426
+CNS Seasonal [NEW] | $568 | $3,979 | $3,979 | $568
+CNS Top Rated [NEW] | $426 | $2,984 | $2,984 | $426
+TOTAL CA | $2,842 | $19,893 | $19,893 | $2,842
+TOTAL TIK TOK | $29,418 | $205,928 | $205,928 | $29,418
+
+Let us know if you have any questions.
+
+Thanks,
+
+Natasha
+
+Natasha Suntewari
+Paid Media Lead, Digital Marketing
+
+lululemon.com
