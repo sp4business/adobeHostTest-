@@ -1,0 +1,79 @@
+{
+  "week": "37",
+  "overall_roas": 3.24,
+  "campaigns": [
+    {
+      "target_campaign_name": "S+ 2.0 US Evergreen Prospecting (Lowest Cost)",
+      "raw_campaign_name": "EVRGN-SMART_PROS_DM (US)",
+      "ad_group": "US_NAT_X_INT (PROS)",
+      "spend": 38128.0,
+      "revenue": 105291.0,
+      "roas": 2.76
+    },
+    {
+      "target_campaign_name": "US Evergreen Prospecting (Lowest Cost)",
+      "raw_campaign_name": "EVRGN_TOF_DM (US)",
+      "ad_group": "US_NAT_X_INT (TOF)",
+      "spend": 36367.0,
+      "revenue": 129525.0,
+      "roas": 3.56
+    },
+    {
+      "target_campaign_name": "US Evergreen Prospecting (Cost Cap)",
+      "raw_campaign_name": "EVRGN_TOF_DM (US) CC",
+      "ad_group": "US_NAT_X_CC (TOF)",
+      "spend": 40387.0,
+      "revenue": 122383.0,
+      "roas": 3.03
+    },
+    {
+      "target_campaign_name": "US Evergreen Retargeting (Lowest Cost)",
+      "raw_campaign_name": "EVRGN_RTG_DM (US)",
+      "ad_group": "US_NAT_X_INT (RTG)",
+      "spend": 7891.0,
+      "revenue": 23776.0,
+      "roas": 3.01
+    },
+    {
+      "target_campaign_name": "Canada Evergreen Prospecting (Lowest Cost)",
+      "raw_campaign_name": "EVRGN_TOF_DM (CA)",
+      "ad_group": "CA_NAT_X_INT (TOF)",
+      "spend": 17155.0,
+      "revenue": 48981.0,
+      "roas": 2.86
+    },
+    {
+      "target_campaign_name": "S+ 2.0 Canada Evergreen Prospecting (Lowest Cost)",
+      "raw_campaign_name": "EVRGN-SMART_PROS_DM (CA)",
+      "ad_group": "CA_NAT_X_INT (PROS)",
+      "spend": 4961.0,
+      "revenue": 2239.0,
+      "roas": 0.45
+    },
+    {
+      "target_campaign_name": "Canada Evergreen Retargeting (Lowest Cost)",
+      "raw_campaign_name": "EVRGN_RTG_DM (CA)",
+      "ad_group": "CA_NAT_X_INT (RTG)",
+      "spend": 1842.0,
+      "revenue": 4415.0,
+      "roas": 2.4
+    },
+    {
+      "target_campaign_name": "US CNS S+ 2.0 (carousel ads only - Lowest Cost)",
+      "raw_campaign_name": "EVRGN-CNS-SMART_PROS_DM (US)",
+      "ad_group": "US_NAT_X_INT",
+      "spend": 27735.0,
+      "revenue": 90054.0,
+      "roas": 3.25
+    },
+    {
+      "target_campaign_name": "Canada CNS S+ 2.0 (carousel ads only - Lowest Cost)",
+      "raw_campaign_name": "EVRGN-CNS-SMART_PROS_DM (CA)",
+      "ad_group": "CA_NAT_X_INT",
+      "spend": 18215.0,
+      "revenue": 65426.0,
+      "roas": 3.59
+    }
+  ],
+  "total_campaigns": 9
+}

@@ -1,0 +1,42 @@
+{
+  "week": "37",
+  "overall_roas": 3.24,
+  "campaigns": [
+    {
+      "name": "US Evergreen Prospecting (Lowest Cost)",
+      "roas": 3.56
+    },
+    {
+      "name": "S+ 2.0 US Evergreen Prospecting (Lowest Cost)",
+      "roas": 2.76
+    },
+    {
+      "name": "US Evergreen Prospecting (Cost Cap)",
+      "roas": 3.03
+    },
+    {
+      "name": "US Evergreen Retargeting (Lowest Cost)",
+      "roas": 3.01
+    },
+    {
+      "name": "Canada Evergreen Prospecting (Lowest Cost)",
+      "roas": 2.86
+    },
+    {
+      "name": "S+ 2.0 Canada Evergreen Prospecting (Lowest Cost)",
+      "roas": 0.45
+    },
+    {
+      "name": "Canada Evergreen Retargeting (Lowest Cost)",
+      "roas": 2.4
+    },
+    {
+      "name": "US CNS S+ 2.0 (carousel ads only - Lowest Cost)",
+      "roas": 3.25
+    },
+    {
+      "name": "Canada CNS S+ 2.0 (carousel ads only - Lowest Cost)",
+      "roas": 3.59
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+Hi Team,
+
+ 
+
+Please see below for WK 37’s performance:
+
+ 
+
+Summary:
+
+Week 37 drove a 3.24x ROAS, the week prior drove 3.44x.
+Smart+ CNS Campaigns drove a 4.06x, the week prior was 3.29x
+Smart+ PROS Campaigns drove a 2.95x, the week prior was 2.89x
+Note: Very slight drop in efficiencies in the past week – seeing a bit of a mixed bag across other channels
+ 
+
+Campaign Name
+
+Ad Group
+
+Spend
+
+Total Revenue
+
+ROAS
+
+EVRGN-SMART_PROS_DM (US)
+
+US_NAT_X_INT (PROS)
+
+$38,128
+
+$105,291
+
+2.76
+
+EVRGN_TOF_DM (US)
+
+US_NAT_X_INT (TOF)
+
+$36,367
+
+$129,525
+
+3.56
+
+EVRGN_TOF_DM (US) CC
+
+US_NAT_X_CC (TOF)
+
+$40,387
+
+$122,383
+
+3.03
+
+EVRGN_RTG_DM (US)
+
+US_NAT_X_INT (RTG)
+
+$7,891
+
+$23,776
+
+3.01
+
+EVRGN_TOF_DM (CA)
+
+CA_NAT_X_INT (TOF)
+
+$17,155
+
+$48,981
+
+2.86
+
+EVRGN-SMART_PROS_DM (CA)
+
+CA_NAT_X_INT (PROS)
+
+$4,961
+
+$2,239
+
+0.45
+
+EVRGN_RTG_DM (CA)
+
+CA_NAT_X_INT (RTG)
+
+$1,842
+
+$4,415
+
+2.40
+
+EVRGN-CNS-SMART_PROS_DM (US)
+
+US_NAT_X_INT
+
+$27,735
+
+$90,054
+
+3.25
+
+EVRGN-CNS-SMART_PROS_DM (CA)
+
+CA_NAT_X_INT
+
+$18,215
+
+$65,426
+
+3.59
+
+TOTAL
+
+$192,681
+
+$592,090
+
+3.07
+
+Total (minus credit + lag revenue)
+
+$194,541
+
+$631,076
+
+3.24
+
+ 
+
+Changes/Upcoming:
+
+Please see the budget adjustments below that were made on this morning
+We went live with EVRGN-SMART_PROS _DM (CA) on Friday, and turned off the REENG Campaigns
+We will be launching Early Gifting and seasonal Outerwear ads tomorrow (21 October)
+ 
+
+% WOW
+
+Tik Tok Weekly Spend
+
+PREVIOUS
+
+TIK TOK
+
+Daily Budget
+
+Weekly Budget
+
+$10,228
+
+4%
+
+TOF_US
+
+$10,590
+
+ $74,132
+
+ $5,974
+
+-5%
+
+TOF_US - Cost Cap
+
+$5,702
+
+ $39,917
+
+ $1,184
+
+-3%
+
+RTG_US
+
+$1,147
+
+ $8,032
+
+ $17,713
+
+TOTAL US
+
+$17,440
+
+ $122,081
+
+ $3,267
+
+-5%
+
+TOF_CA
+
+$3,103
+
+ $21,724
+
+ $214
+
+2%
+
+RTG_CA
+
+$219
+
+ $1,530
+
+ $3,191
+
+TOTAL CA
+
+$3,322
+
+ $23,254
+
+ $994
+
+-1%
+
+CNS Bestsellers_US
+
+$983
+
+ $6,884
+
+ $1,470
+
+-6%
+
+CNS New Arrivals_US
+
+$1,377
+
+ $9,638
+
+ $480
+
+2%
+
+CNS Top Colours_US
+
+ $492
+
+ $3,442
+
+ $584
+
+1%
+
+CNS Seasonal [NEW]
+
+$590
+
+ $4,131
+
+ $497
+
+-1%
+
+CNS Top Rated [NEW]
+
+$492
+
+ $3,442
+
+ $4,025
+
+TOTAL US
+
+$3,934
+
+ $27,537
+
+ $384
+
+2%
+
+CNS Bestsellers_CA
+
+$393
+
+ $2,754
+
+ $774
+
+2%
+
+CNS New Arrivals_CA
+
+$787
+
+ $5,507
+
+ $415
+
+-5%
+
+CNS Top Colours_CA
+
+ $393
+
+ $2,754
+
+ $679
+
+-3%
+
+CNS Seasonal [NEW]
+
+$656
+
+ $4,590
+
+ $405
+
+-3%
+
+CNS Top Rated [NEW]
+
+$393
+
+ $2,754
+
+ $2,657
+
+TOTAL CA
+
+$2,623
+
+ $18,358
+
+ $27,586
+
+TOTAL TIK TOK
+
+$27,319
+
+ $191,230
+
+ 
+
+Let me know if you have any further questions,
+
+ 
+
+Shubha Kaushik (she/her)
+
+Program Lead, Paid Media
+
+ 
